@@ -1,0 +1,16 @@
+.body{
+    
+    height: 600px;
+    padding: 1%;
+    object-fit:cover;
+    width: 100%;
+    
+    
+
+}
+.bg{
+    height: 575px;
+    object-fit:cover;
+    filter: blur(8px);
+}
+
